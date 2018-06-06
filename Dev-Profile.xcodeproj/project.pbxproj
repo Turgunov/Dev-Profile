@@ -54,14 +54,22 @@
 		A6DCB21C20C8662800CE39CC /* Dev-Profile */ = {
 			isa = PBXGroup;
 			children = (
-				A6DCB21D20C8662800CE39CC /* AppDelegate.swift */,
 				A6DCB21F20C8662800CE39CC /* ViewController.swift */,
 				A6DCB22120C8662800CE39CC /* Main.storyboard */,
-				A6DCB22420C8662A00CE39CC /* Assets.xcassets */,
-				A6DCB22620C8662A00CE39CC /* LaunchScreen.storyboard */,
+				A6DCB22F20C8663700CE39CC /* Supporting Files */,
 				A6DCB22920C8662A00CE39CC /* Info.plist */,
 			);
 			path = "Dev-Profile";
+			sourceTree = "<group>";
+		};
+		A6DCB22F20C8663700CE39CC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A6DCB21D20C8662800CE39CC /* AppDelegate.swift */,
+				A6DCB22420C8662A00CE39CC /* Assets.xcassets */,
+				A6DCB22620C8662A00CE39CC /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
